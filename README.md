@@ -121,4 +121,4 @@ npm run build
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-Copyright (c) 2026 Team Lakshaya.
+Copyright (c) 2026 Sahil Gaurav (Team Lakshaya).
